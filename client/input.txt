@@ -1,0 +1,13 @@
+<ID>liuxt</ID>
+<PASS>940918</PASS>
+<M>liuxt</M>
+<TITLE>hello</TITLE>
+<CONTENT>This is a testing
+by liuxt</CONTENT>
+<BOARD>test</BOARD>
+<BOARD>TEST</BOARD
+<P>test</P>
+<CONTENT>This is a testing
+by liuxt</CONTENT>
+<W>liuxt</W> <CONTENT>hihi</CONTENT>
+<EXIT>
